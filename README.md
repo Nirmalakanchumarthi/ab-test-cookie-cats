@@ -24,7 +24,7 @@ An A/B test analysis of about 90,000 players of the mobile puzzle game Cookie Ca
 
 [Open the Tableau Public dashboard](https://public.tableau.com/app/profile/nirmala.kanchumarthi/viz/CookieCatsABTest_17954236565870/Dashboard)
 
-![Dashboard](git/Dashboard/ab_test_dashboard.png)
+![Dashboard](Dashboard/ab_test_dashboard.png)
 
 ## Method
 
